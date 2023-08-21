@@ -1,5 +1,5 @@
 # sistema-bibliotecario
-<p>Projeto academico</p>>
+<p>Projeto academico</p>
 
 ## Linguagem e banco de dados utilizados
 - Java
